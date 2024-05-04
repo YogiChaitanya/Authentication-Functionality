@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.nav-menu {
+  list-style-type: none;
+  width: 100px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  padding: 0px;
+  margin: 0px;
+}
+
+.nav-item {
+  text-decoration: none;
+  font-family: "Roboto";
+}
